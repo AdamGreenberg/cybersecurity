@@ -5,6 +5,8 @@ date: 2020-08-23
 categories: cybersecurity
 tags: [Authy, Brave, cybersecurity, free guide, LastPass, privacy]
 author: "Adam Greenberg"
+redirect_from:
+  - /2020/08/download-your-free-security-guide/
 # meta: "Springfield"
 ---
 

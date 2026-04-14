@@ -5,6 +5,8 @@ date: 2020-08-28
 categories: cybersecurity
 tags: [double-blind, LastPass, password, passwords, security, privacy]
 author: "Adam Greenberg"
+redirect_from:
+  - /2020/08/how-to-create-a-double-blind-password/
 # meta: "sdf"
 ---
 
