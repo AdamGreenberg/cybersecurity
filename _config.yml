@@ -4,7 +4,7 @@ email: hello@cybersecurity.AdamGreenberg.com
 description: > # this means to ignore newlines until "twitter_username:"
   Cybersecurity Consultation
 # baseurl: /blog
-# url: https://cybersecurity.adamgreenberg.com
+url: https://cybersecurity.adamgreenberg.com
 
 # social links
 # twitter_username: jekyllrb
