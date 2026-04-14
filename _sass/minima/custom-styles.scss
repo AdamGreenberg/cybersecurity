@@ -1,0 +1,10 @@
+.site-footer {
+  .contact-list {
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .contact-list li {
+    white-space: normal;
+  }
+}
