@@ -10,7 +10,7 @@ redirect_from:
 # meta: "security guide"
 ---
 
-Download Your Free 2020 Internet Privacy and Security Guide of Best Practices.
+[Download Your Free 2020 Internet Privacy and Security Guide of Best Practices.](../../../../../wp-content/uploads/2020/08/Be-Internet-Smart-A-Privacy-and-Security-Guide-of-Best-Practices-2020-by-Adam-Greenberg.pdf)
 
 No incentive has been made to the author -me- in recommending any products or services within the guide.
 
