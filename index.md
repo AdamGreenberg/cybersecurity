@@ -10,6 +10,8 @@ title: Welcome
 permalink: /
 redirect_from:
     - /product/personalized-consultation/
+    - /category/cybersecurity/ # remove after creating category search
+    - /author/adam             # remove after creating author page
 ---
 
 Cybersecurity is no longer optional—it's essential. In today's digital landscape, understanding security best practices is a necessary responsibility. Through years of research and real-world experience, I've developed practical insights that I'm sharing throughout this site, including free annual guides to help you strengthen your defenses and stay protected.
