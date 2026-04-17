@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Download your free 2021 'Be Internet-Smart' Security Guide"
+title: "Download Your Free 2021 'Be Internet-Smart' Security Guide"
 date: 2021-03-05
 categories: cybersecurity
 tags: [Authy, Brave, cybersecurity, free guide, Bitwarden, privacy, ProtonMail, ProtonVPN]
@@ -10,7 +10,7 @@ redirect_from:
 excerpt_separator: <!--more-->
 ---
 
-[Download your free 2021 'Be Internet-Smart' Security Guide.](../../../../../wp-content/uploads/2021/03/2021-Be-Internet-Smart-A-Privacy-and-Security-Guide-cybersecurity.AdamGreenberg.com.pdf)
+[Download Your Free 2021 'Be Internet-Smart' Security Guide.](../../../../../wp-content/uploads/2021/03/2021-Be-Internet-Smart-A-Privacy-and-Security-Guide-cybersecurity.AdamGreenberg.com.pdf)
 
 <!--more-->
 
