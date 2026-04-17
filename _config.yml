@@ -1,4 +1,4 @@
-title: Cybersecurity.AdamGreenberg.com
+title: Cybersecurity Consultation
 author: Adam Greenberg
 email: hello@cybersecurity.AdamGreenberg.com
 description: > # this means to ignore newlines until "twitter_username:"
@@ -54,9 +54,10 @@ collections:
     output: true
     permalink: /blog/:path/
     
-header_pages:
-  - index.md
-  - index.md/#Reviews
-# - about.md
-  - blog.md
-  - contact.md
+# header_pages:
+#  - index.md
+#  - about.md
+#  - blog.md
+#  - index.md/#Testimonials
+#  - guides.md
+#  - contact.md
