@@ -8,9 +8,12 @@ author: "Adam Greenberg"
 redirect_from:
   - /2020/08/download-your-free-security-guide/
 # meta: "security guide"
+excerpt_separator: <!--more-->
 ---
 
 [Download Your Free 2020 Internet Privacy and Security Guide of Best Practices.](../../../../../wp-content/uploads/2020/08/Be-Internet-Smart-A-Privacy-and-Security-Guide-of-Best-Practices-2020-by-Adam-Greenberg.pdf)
+
+<!--more-->
 
 No incentive has been made to the author -me- in recommending any products or services within the guide.
 
