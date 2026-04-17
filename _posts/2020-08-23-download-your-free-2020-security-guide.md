@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Download Your Free Security Guide"
+title: "Download Your Free 2020 Security Guide"
 date: 2020-08-23
 categories: cybersecurity
 tags: [Authy, Brave, cybersecurity, free guide, LastPass, privacy]
