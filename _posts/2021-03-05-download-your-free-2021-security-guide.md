@@ -7,7 +7,7 @@ tags: [Authy, Brave, cybersecurity, free guide, Bitwarden, privacy, ProtonMail, 
 author: "Adam Greenberg"
 redirect_from:
 # meta: "security guide"
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 ---
 
 [Download your free 2021 'Be Internet-Smart' Security Guide.](../../../../../wp-content/uploads/2021/03/2021-Be-Internet-Smart-A-Privacy-and-Security-Guide-cybersecurity.AdamGreenberg.com.pdf)

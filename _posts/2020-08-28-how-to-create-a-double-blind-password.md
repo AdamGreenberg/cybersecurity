@@ -11,7 +11,7 @@ redirect_from:
 excerpt_separator: <!--more-->
 ---
 
-For even more security, here’s an interesting idea. 
+For even more security, here’s an interesting idea:
 
 <!--more-->
 

@@ -53,3 +53,8 @@ collections:
   blog:
     output: true
     permalink: /blog/:path/
+    
+header_pages:
+  - index.md
+  - blog.md
+  - contact.md
